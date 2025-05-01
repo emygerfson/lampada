@@ -3,7 +3,7 @@ const desligar = document.getElementById('Desligar');
 const lampada = document.getElementById('lampada');
 
 function ligarLampada(){
-    lampada.src = "/imagem/lampada-acesa.png";
+    lampada.src = "imagem/lampada-acesa.png";
     
 }
 function desligarLampada(){
